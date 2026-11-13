@@ -1,0 +1,6 @@
+yt-dlp>=2024.8.0
+numpy>=1.26.0
+pillow>=10.0.0
+
+# Taşınabilir exe derlemek için (opsiyonel):
+# pyinstaller>=6.0.0

@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Build / dağıtım çıktıları
+build/
+dist/
+*.spec.bak
+MusicDownloaderPortable/
+MusicDownloaderPortable.zip
+*.exe
+
+# Yerel indirmeler ve kullanıcı listesi
+downloads/
+songs.txt
+!songs.example.txt
+
+# Büyük ikili dosyalar (ffmpeg yerelde tutulur)
+vendor/ffmpeg.exe
+vendor/*.exe
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Geçici
+*.log
+*.tmp

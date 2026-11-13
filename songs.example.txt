@@ -1,0 +1,6 @@
+# Her satıra bir şarkı (veya "sanatçı - parça")
+# # ile başlayan satırlar yok sayılır
+
+Sezen Aksu - Gülümse
+Radiohead - Weird Fishes
+Daft Punk - Instant Crush
